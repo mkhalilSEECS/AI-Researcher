@@ -1,7 +1,7 @@
 
 # 🤖📚 AI Researcher – Literature Review Generator
 
-This project generates detailed, structured academic literature reviews from arXiv papers using open-source language models. It fetches abstracts, summarizes them, and writes a full review across multiple academic sections — all powered by Hugging Face models.
+This project generates detailed, structured academic literature reviews from arXiv papers using open-source language models. It fetches abstracts, summarizes them, and writes a full review across multiple academic sections — all powered by Hugging Face models. https://huggingface.co/spaces/gunner2k25/ai-researcher2
 
 ## 🚀 Features
 
